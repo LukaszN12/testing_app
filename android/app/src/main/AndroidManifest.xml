@@ -2,7 +2,7 @@
     package="com.example.testing_app">
    <application
         android:label="testing_app"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/aaap_iicons">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
